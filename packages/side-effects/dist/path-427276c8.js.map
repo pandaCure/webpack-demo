@@ -1,0 +1,1 @@
+{"version":3,"file":"path-427276c8.js","mappings":"yBAQAA,QAAQC,IAAI,G","sources":["webpack://side-effects/./src/index.js"],"sourcesContent":["/*\n * @Author: zhangzhongyou\n * @Date: 2021-11-01 20:28:17\n * @LastEditTime: 2021-11-01 20:37:24\n * @LastEditors: zhangzhongyou\n */\nimport \"./index.css\";\n\nconsole.log(1);\n"],"names":["console","log"],"sourceRoot":""}
